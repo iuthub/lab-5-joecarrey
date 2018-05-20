@@ -39,7 +39,7 @@
 		}
 	?>
 	
-	<form action="Task_G.php" method="post">
+	<form action="task_g.php" method="post">
 		<label for="input_text">Enter Your Text</label>
 		<br>
 		<input type="text" name="input_text" id="input_text">

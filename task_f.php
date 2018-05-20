@@ -29,7 +29,7 @@
 		}
 	?>
 	
-	<form action="Task_F.php" method="post">
+	<form action="task_f.php" method="post">
 		<label for="input_text">Enter Your Text</label>
 		<br>
 		<textarea name="input_text" id="input_text" cols="30" rows="10"></textarea>
